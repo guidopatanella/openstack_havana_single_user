@@ -1,2 +1,6 @@
 openstack_havana_single_user
 ============================
+
+In progress...
+
+( for RH/Fedora/CentOS  for now )...
